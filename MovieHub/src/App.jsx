@@ -3,22 +3,18 @@ import './App.css'
 function App() {
    return (
 <> 
-    <div>
-      <p>Hello Code!</p>
-    </div>
-
-    <div>
-      <p>Hello Code!</p>
-    </div>
+    
+    <Text display="Hello" />
+    <Text display="World!" />
 
 </> //Fragment end
   )
 }
 
-function Text() {
+function Text({display}) {
   return (
     <div>
-      <p>Hello Code</p>
+      <p>{display}</p>
     </div>
   )
 }
