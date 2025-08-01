@@ -15,4 +15,12 @@ function App() {
   )
 }
 
+function Text() {
+  return (
+    <div>
+      <p>Hello Code</p>
+    </div>
+  )
+}
+
 export default App
