@@ -3,7 +3,8 @@ import "./App.css";
 function App(){
   return(
     <>
-      
+      <Text display="Hello" />
+      <Text display="World!" />
     </>
   )
 
