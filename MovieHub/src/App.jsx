@@ -8,3 +8,13 @@ function App(){
   )
 
 }
+
+function Text({display}) {
+  return(
+    <div>
+      <p>{display}</p>
+    </div>
+  );
+}
+
+export default App;
