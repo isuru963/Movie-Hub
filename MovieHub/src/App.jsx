@@ -3,20 +3,6 @@ import "./App.css";
 function App(){
   return(
     <>
-    </>
-  )
-}
-
-
-
-
-/*
-
-import "./App.css";
-
-function App(){
-  return(
-    <>
       <Text display="Hello" />
       <Text display="World!" />
     </>
@@ -34,4 +20,3 @@ function Text({display}) {
 
 export default App;
 
-*/
