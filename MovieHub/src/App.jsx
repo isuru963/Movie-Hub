@@ -1,10 +1,17 @@
 import './App.css'
 
 function App() {
-  
+   return (
+<> 
+    <div>
+      <p>Hello Code!</p>
+    </div>
 
-  return (
-    <div></div>
+    <div>
+      <p>Hello Code!</p>
+    </div>
+
+</> //Fragment end
   )
 }
 
